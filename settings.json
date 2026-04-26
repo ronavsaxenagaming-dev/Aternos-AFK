@@ -6,9 +6,11 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
-    "version": "",
+    "ip": "Hello_pls_play_with_.aternos.me",
+    "port": 64872
+
+,
+    "version": "1.21.1",
     "try-creative": false
   },
   "position": {
@@ -31,9 +33,9 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Slobos!",
-        "I like to play Minecraft!"
+        "Bot working",
+        "Bot working",
+        "Bot working"
       ]
     },
     "chat-log": true,
